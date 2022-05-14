@@ -1,0 +1,26 @@
+C:\Users\jay.sedani\source\repos\SP Generator\SP Generator\obj\Debug\SP Generator.csprojAssemblyReference.cache
+C:\Users\jay.sedani\source\repos\SP Generator\SP Generator\obj\Debug\SP_Generator.Form1.resources
+C:\Users\jay.sedani\source\repos\SP Generator\SP Generator\obj\Debug\SP_Generator.Properties.Resources.resources
+C:\Users\jay.sedani\source\repos\SP Generator\SP Generator\obj\Debug\SP Generator.csproj.GenerateResource.cache
+C:\Users\jay.sedani\source\repos\SP Generator\SP Generator\obj\Debug\SP Generator.csproj.CoreCompileInputs.cache
+C:\Users\jay.sedani\source\repos\SP Generator\SP Generator\bin\Debug\SP Generator.exe.config
+C:\Users\jay.sedani\source\repos\SP Generator\SP Generator\bin\Debug\SP Generator.exe
+C:\Users\jay.sedani\source\repos\SP Generator\SP Generator\bin\Debug\SP Generator.pdb
+C:\Users\jay.sedani\source\repos\SP Generator\SP Generator\obj\Debug\SP Generator.exe
+C:\Users\jay.sedani\source\repos\SP Generator\SP Generator\obj\Debug\SP Generator.pdb
+C:\Users\jay.sedani\source\repos\SP Generator\SP Generator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jay.sedani\source\repos\SP Generator\SP Generator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jay.sedani\source\repos\SP Generator\SP Generator\obj\Debug\SP Generator.csproj.CopyComplete
+A:\my_project\SP Generator\SP Generator\SP Generator\bin\Debug\SP Generator.exe.config
+A:\my_project\SP Generator\SP Generator\SP Generator\bin\Debug\SP Generator.exe
+A:\my_project\SP Generator\SP Generator\SP Generator\bin\Debug\SP Generator.pdb
+A:\my_project\SP Generator\SP Generator\SP Generator\bin\Debug\Newtonsoft.Json.dll
+A:\my_project\SP Generator\SP Generator\SP Generator\bin\Debug\Newtonsoft.Json.xml
+A:\my_project\SP Generator\SP Generator\SP Generator\obj\Debug\SP Generator.csprojAssemblyReference.cache
+A:\my_project\SP Generator\SP Generator\SP Generator\obj\Debug\SP_Generator.Form1.resources
+A:\my_project\SP Generator\SP Generator\SP Generator\obj\Debug\SP_Generator.Properties.Resources.resources
+A:\my_project\SP Generator\SP Generator\SP Generator\obj\Debug\SP Generator.csproj.GenerateResource.cache
+A:\my_project\SP Generator\SP Generator\SP Generator\obj\Debug\SP Generator.csproj.CoreCompileInputs.cache
+A:\my_project\SP Generator\SP Generator\SP Generator\obj\Debug\SP Generator.csproj.CopyComplete
+A:\my_project\SP Generator\SP Generator\SP Generator\obj\Debug\SP Generator.exe
+A:\my_project\SP Generator\SP Generator\SP Generator\obj\Debug\SP Generator.pdb

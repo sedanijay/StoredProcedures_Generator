@@ -1,0 +1,26 @@
+﻿-- ================================================
+-- Template generated from SP Generator using:
+-- Create Procedure (New Menu).SQL
+-- ================================================
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+-- =============================================
+-- Author:		<Author,,Jay Sedani>
+-- Create date: <Create Date,,{{sp_created_date}}>
+-- Description:	<Description,,{{sp_description}}>
+-- =============================================
+CREATE PROCEDURE {{sp_name}}
+	-- Add the parameters for the stored procedure here
+	{{sp_parameters}}
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+    -- Insert statements for procedure here
+	{{sp_query}}
+END
+GO
