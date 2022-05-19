@@ -24,3 +24,32 @@ A:\my_project\SP Generator\SP Generator\SP Generator\obj\Debug\SP Generator.cspr
 A:\my_project\SP Generator\SP Generator\SP Generator\obj\Debug\SP Generator.csproj.CopyComplete
 A:\my_project\SP Generator\SP Generator\SP Generator\obj\Debug\SP Generator.exe
 A:\my_project\SP Generator\SP Generator\SP Generator\obj\Debug\SP Generator.pdb
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\bin\Debug\SP Generator.exe.config
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\bin\Debug\SP Generator.exe
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\bin\Debug\SP Generator.pdb
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\bin\Debug\MySqlConnector.dll
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\bin\Debug\Newtonsoft.Json.dll
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\bin\Debug\System.Buffers.dll
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\bin\Debug\System.Memory.dll
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\bin\Debug\System.Numerics.Vectors.dll
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\bin\Debug\MySqlConnector.xml
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\bin\Debug\Newtonsoft.Json.xml
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\bin\Debug\System.Buffers.xml
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\bin\Debug\System.Memory.xml
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\bin\Debug\System.Numerics.Vectors.xml
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\obj\Debug\SP Generator.csprojAssemblyReference.cache
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\obj\Debug\SP_Generator.Form1.resources
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\obj\Debug\SP_Generator.Home.resources
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\obj\Debug\SP_Generator.MySQL.resources
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\obj\Debug\SP_Generator.Properties.Resources.resources
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\obj\Debug\SP Generator.csproj.GenerateResource.cache
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\obj\Debug\SP Generator.csproj.CoreCompileInputs.cache
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\obj\Debug\SP Generator.csproj.CopyComplete
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\obj\Debug\SP Generator.exe
+E:\__jay_sedani\SQL_SP_Generator-main\SP Generator\SP Generator\obj\Debug\SP Generator.pdb

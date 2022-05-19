@@ -1,0 +1,9 @@
+﻿DELIMITER &&  
+CREATE PROCEDURE {{sp_name}} (
+-- INOUT var1 INT
+{{sp_parameters}}
+)
+BEGIN  
+    {{sp_query}}
+END &&  
+DELIMITER ;  

@@ -17,7 +17,7 @@ namespace SP_Generator
 {
     public partial class Form1 : Form
     {
-        private SP_utils obj_utils = new SP_utils();
+        private sql_SP_utils obj_utils = new sql_SP_utils();
 
         public Form1()
         {
@@ -53,11 +53,11 @@ namespace SP_Generator
 
             foreach (var table_name in tables)
             {
-                dynamic json_table_columns = obj_utils.FetchTableColumns(conn, table_name);
+                dynamic json_table_columns = obj_utils.sql_FetchTableColumns(conn, table_name);
 
                 dynamic column_props = JsonConvert.DeserializeObject<dynamic>(json_table_columns);
 
-                string primary_key = obj_utils.GetPrimaryKey(conn, table_name);
+                string primary_key = obj_utils.sql_GetPrimaryKey(conn, table_name);
 
                 string para_list = "@IU_Flag char \n,";
                 string col_list = "";
